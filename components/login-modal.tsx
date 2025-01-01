@@ -33,7 +33,7 @@ export function LoginModal({ isOpen, onClose }: { isOpen: boolean; onClose: () =
         title: "Login failed",
         description: "Please check your credentials and try again.",
         variant: "destructive",
-      })
+      });
     }
   }
 

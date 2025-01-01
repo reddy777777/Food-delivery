@@ -32,7 +32,7 @@ export default function SignUpPage() {
         title: "Sign up failed",
         description: "There was an error creating your account. Please try again.",
         variant: "destructive",
-      })
+      });
     }
   }
 

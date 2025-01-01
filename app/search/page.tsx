@@ -20,7 +20,7 @@ export default function SearchPage() {
 
   return (
     <div className="container mx-auto px-4 py-8">
-      <h1 className="mb-8 text-3xl font-bold">Search Results for "{initialQuery}"</h1>
+      <h1 className="mb-8 text-3xl font-bold">Search Results for &quot;{initialQuery}&quot;</h1>
       
       <div className="mb-6 flex flex-wrap items-center gap-4">
         <Input

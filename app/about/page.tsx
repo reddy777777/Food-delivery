@@ -56,7 +56,7 @@ export default function AboutPage() {
           <p>
             Whether your are a food enthusiast, a restaurant owner, or someone who simply 
             enjoys a good meal, we invite you to join the Foodie community. Together, 
-            let's explore the wonderful world of flavors right at your fingertips!
+            lets explore the wonderful world of flavors right at your fingertips!
           </p>
         </CardContent>
       </Card>

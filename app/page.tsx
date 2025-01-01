@@ -56,7 +56,7 @@ export default function HomePage() {
         <p className="text-center text-lg">
           At Foodie, we strive to connect food lovers with the best local restaurants, 
           providing a seamless and delightful dining experience. Our goal is to make 
-          every meal special, whether you're dining in or ordering out.
+          every meal special, whether you dining in or ordering out.
         </p>
       </section>
 
