@@ -27,3 +27,6 @@ Follow these steps to set up and run the project locally:
    ```bash
    git clone https://github.com/reddy777777/food-delivery.git
    cd food-delivery
+
+![image atl](https://github.com/reddy777777/Food-delivery/blob/10bec46d44874e79724b31261e3fad9d0452f4ac/Screenshot%202025-01-15%20131543.png)
+
