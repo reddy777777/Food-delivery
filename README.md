@@ -30,3 +30,40 @@ Follow these steps to set up and run the project locally:
 
 ![image atl](https://github.com/reddy777777/Food-delivery/blob/10bec46d44874e79724b31261e3fad9d0452f4ac/Screenshot%202025-01-15%20131543.png)
 
+![image atl](https://github.com/reddy777777/Food-delivery/blob/e3e4ba34b889a72313cc2d89fe3c7525b9f60a60/Screenshot%202025-01-15%20131611.png
+)
+
+![image atl](https://github.com/reddy777777/Food-delivery/blob/e3e4ba34b889a72313cc2d89fe3c7525b9f60a60/Screenshot%202025-01-15%20131639.png
+)
+
+![image atl](https://github.com/reddy777777/Food-delivery/blob/e3e4ba34b889a72313cc2d89fe3c7525b9f60a60/Screenshot%202025-01-15%20131742.png
+)
+
+![image atl](https://github.com/reddy777777/Food-delivery/blob/e3e4ba34b889a72313cc2d89fe3c7525b9f60a60/Screenshot%202025-01-15%20131813.png
+)
+
+![image atl](https://github.com/reddy777777/Food-delivery/blob/e3e4ba34b889a72313cc2d89fe3c7525b9f60a60/Screenshot%202025-01-15%20132006.png
+)
+
+![image atl](https://github.com/reddy777777/Food-delivery/blob/e3e4ba34b889a72313cc2d89fe3c7525b9f60a60/Screenshot%202025-01-15%20132021.png
+)
+
+![image atl](https://github.com/reddy777777/Food-delivery/blob/e3e4ba34b889a72313cc2d89fe3c7525b9f60a60/Screenshot%202025-01-15%20132021.png
+)
+
+![image atl](https://github.com/reddy777777/Food-delivery/blob/e3e4ba34b889a72313cc2d89fe3c7525b9f60a60/Screenshot%202025-01-15%20132109.png
+)
+
+![image atl](https://github.com/reddy777777/Food-delivery/blob/e3e4ba34b889a72313cc2d89fe3c7525b9f60a60/Screenshot%202025-01-15%20132140.png
+)
+
+![image atl](https://github.com/reddy777777/Food-delivery/blob/e3e4ba34b889a72313cc2d89fe3c7525b9f60a60/Screenshot%202025-01-15%20132200.png
+)
+
+
+
+
+
+
+
+
