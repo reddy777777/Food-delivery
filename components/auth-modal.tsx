@@ -50,6 +50,7 @@ export function AuthModal({ isOpen, onClose }: { isOpen: boolean; onClose: () =>
       })
       onClose()
     } catch (error) {
+      console.error("An error occurred:", error);
       toast({
         title: "Sign up failed",
         description: "There was an error creating your account. Please try again.",
