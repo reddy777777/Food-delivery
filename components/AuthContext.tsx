@@ -34,22 +34,26 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
   const login = async (email: string, password: string) => {
     setIsLoading(true)
-    await new Promise(resolve => setTimeout(resolve, 1000)) // Simulating API call
+    await new Promise(resolve => setTimeout(resolve, 1000)) 
+    if (email && password) {  // Simulating API call
     const newUser = { id: '1', name: 'John Doe', email }
     setUser(newUser)
     localStorage.setItem('user', JSON.stringify(newUser))
     setIsLoading(false)
     router.push('/')
+    }
   }
 
   const signup = async (name: string, email: string, password: string) => {
     setIsLoading(true)
-    await new Promise(resolve => setTimeout(resolve, 1000)) // Simulating API call
+    await new Promise(resolve => setTimeout(resolve, 1000))
+    if (name && email && password) {// Simulating API call
     const newUser = { id: '2', name, email }
     setUser(newUser)
     localStorage.setItem('user', JSON.stringify(newUser))
     setIsLoading(false)
     router.push('/dashboard')
+    }
   }
 
   const logout = () => {
