@@ -29,6 +29,7 @@ export function LoginModal({ isOpen, onClose }: { isOpen: boolean; onClose: () =
       })
       onClose()
     } catch (error) {
+      console.error("An error occurred:", error);
       toast({
         title: "Login failed",
         description: "Please check your credentials and try again.",
