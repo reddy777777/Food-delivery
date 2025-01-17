@@ -94,7 +94,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <h2 className="mb-8 text-3xl font-bold text-center">Restaurant's</h2>
+      <h2 className="mb-8 text-3xl font-bold text-center">Restaurant&apos;s</h2>
       <RestaurantList selectedCuisine="All" searchTerm="" />
     </div>
   )
