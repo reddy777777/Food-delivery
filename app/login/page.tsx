@@ -25,6 +25,7 @@ export default function LoginPage() {
       })
       router.push('/')
     } catch (error) {
+      console.error("An error occurred:", error);
       toast({
         title: "Login failed",
         description: "Please check your credentials and try again.",
